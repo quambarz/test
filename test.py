@@ -1,0 +1,3 @@
+import pyanyapi
+
+print("test")
